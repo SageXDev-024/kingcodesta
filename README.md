@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kingcodesta
-- 👀 I’m interested in mobile dev using flutter.  
+- 👋 Hi, I’m @SageXDev-024
+- 👀 I’m interested in mobile dev using Flutter.  
 - 🌱 I’m currently learning dart and flutter
 - 😄 Pronouns: I'm a guy (A good looking one..... probably 😅)
 - ⚡ Fun fact: Coding aside, I'm an illustrator, a graphic designer and I enjoy writing.
